@@ -179,7 +179,6 @@ $ npx hardhat ignition deploy ./ignition/modules/Token.js --network sepolia
  - **<ins>0x69C560e71008d53A680bA31a254400e10dAea9b2<ins>**
 
 **if you followed all the previous commmandss ccorrecctly then you will be able to see the final interface:liike this 🥇**
-figure45445
 
 ![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/3cfcff44-ba11-4fdc-bb5d-6e1eeaa09d4d)
 
