@@ -23,10 +23,6 @@ Hardhat is an Ethereum development environment designed for professionals. It st
    - Speed up your development feedback loop by making it up to 10x faster with Hardhat.
    - **TypeScript Support**: Catch mistakes before running your code using TypeScript natively.
 
-4. **Vibrant Community**:
-   - Join the Hardhat community to find answers, collaborate, and contribute to the plugin ecosystem.
-   - Trusted by top teams like Decentraland and Kyber.
-
 *now we ccan move for our moto to create a dapp by using hardhat:-*
 **installation**
  - *on ubuntu*
