@@ -1,6 +1,6 @@
 # Building Dapp by hardhat 'by the followig instructon's :::::::::::⬇️ #
 
-**So first we have to understand that what is hardhat is::🙇‍♂️**
+**So first we have to understand that what is hardhat is: :🙇‍♂️**
 
 # Hardhat: Ethereum Development Environment
 
