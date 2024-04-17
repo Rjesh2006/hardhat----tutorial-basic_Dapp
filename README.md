@@ -119,7 +119,7 @@ link 64464646464646
 
 ***step:4***
 *Deploying to a live network:*
- *creat a directory name as (ignition) then dive into the ignition directory then creat a another direcrtory inside that directory name as (modules) then also dive in module directory now creat a file name as Token.js isnide the modules diretory: :😰*
+ *creat a directory name as (ignition) then dive into the ignition directory then creat a another direcrtory inside that directory name as (modules) then also dive in module directory now creat a file name as Token.js inside the modules diretory: (*do it carefully*):😰*
 
 *put the given code in Token.js file by cickk on this given link:-⬇️*
 
