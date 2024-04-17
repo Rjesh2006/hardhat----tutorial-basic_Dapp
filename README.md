@@ -113,9 +113,6 @@ $ npx hardhat test
 
 *and if u want to understand the code expalnation then click here:*
 
-link 64464646464646
-
-
 
 ***step:4***
 *Deploying to a live network:*
