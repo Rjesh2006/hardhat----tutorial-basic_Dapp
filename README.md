@@ -92,19 +92,19 @@ require("@nomicfoundation/hardhat-toolbox");
 
 *now you can click here to get that smart contracts to put in Token.sol*
 
-link6464646464646
+[click_here_to get token.sol code](https://github.com/Rjesh2006/hardhat----dapp-s/blob/main/contract's_Token.sol)
 
 *then comppile that sol fle by hardhat :-*
 ```
 $ npx hardhat compile
 ```
 *then you will see like this interface:-*
-45555
+fig:--45555
 
 ***step 4***
 *Testing  contraact's*
- *now creart a test directory the put token.js file in that directory   (get the js code to click on the given link below:-::::::↙️):*
-  - link54452646446444639
+ *now creart a (test) directory the put token.js file in that directory   (get the js code to click on the given link below:-::::::↙️):*
+   [click here to  get the token.js code](https://github.com/Rjesh2006/hardhat----dapp-s/blob/main/test_Token.js)
 
 *then coompile that test direcrory : by the given command:-**
 ```
@@ -126,7 +126,7 @@ link 64464646464646
 
 *put the given code in Token.js file by cickk on this given link:-⬇️*
 
-links4446464466
+[click here to get the token.js code of for modules directory](https://github.com/Rjesh2006/hardhat----dapp-s/blob/main/modules_Token.js)
 *then follow the commands:*
 ```
 npx hardhat ignition deploy ./ignition/modules/Token.js --network <network-name>
