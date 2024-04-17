@@ -1,4 +1,4 @@
-# Building Dapp by hardhat 'by the followig instructon's which i will be wprovide you :::::::::::⬇️ #
+# Building Dapp by hardhat 'by the followig instructon's :::::::::::⬇️ #
 
 **So first we have to understand that what is hardhat is::🙇‍♂️**
 
@@ -96,7 +96,7 @@ $ npx hardhat compile
 *then you will see like this interface:-*
 figure664646
 
-***step :3***
+***step 4***
 *Testing  contraact's*
  *now creart a test directory the put token.js file in that directory   (get the js code to click on the given link below:-::::::↙️):*
   - link54452646446444639
@@ -126,15 +126,60 @@ links4446464466
 npx hardhat ignition deploy ./ignition/modules/Token.js --network <network-name>
 ```
 
-*NOTE:With our current configuration, running it without the --network parameter would cause the code to run against an embedded instance of Hardhat Network. In this scenario, the deployment actually gets lost when Hardhat finishes running, but it's still useful to test that our deployment code works:*
+*NOTE:<ins>With our current configuration, running it without the --network parameter would cause the code to run against an embedded instance of Hardhat Network. In this scenario, the deployment actually gets lost when Hardhat finishes running, but it's still useful to test that our deployment code works:<ins>*
 
 *interface will be like this:*
 fig6464646464
 
 
+***step 4:***
+*Deploying to remote networks*
+
+ *now open ur hardhat congig.js file and remove all the previous code from there and put this give code by clicking on the given link :🔄*
+
+ link 446464646
+
+```
+npx hardhat ignition deploy ./ignition/modules/Token.js --network sepolia
+
+````
+*innterface will be lookk like this:-*
+
+*now run the give command*
+```
+$ npx hardhat vars setup
+```
+
+fig
+
+**
+```
+$ npx hardhat vars set INFURA_API_KEY <your-infura-api-key>
+$ npx hardhat vars set SEPOLIA_PRIVATE_KEY <your-sepolia-private-key>
+```
+
+*Finally, deploy to the Sepolia network using the following command*
+*note: if you want to deploy this on test net then chnge networrk for maiinet to ----> testnet network*
+```
+$ npx hardhat ignition deploy ./ignition/modules/Token.js --network sepolia
+? Confirm deploy to network sepolia (11155111)? » (y/N) <y>
+```
+*interface will be*
+figure444646464
+
+
+*and afer this you will get a (TokenModule#Token) then put that on the givenn link  to see ur Dapp:*
+[blockchainexplorer](https://www.blockchain.com/explorer)
+
+**if you followed all the previous commmandss ccorrecctly then you will be able to see the final interface:liike this 🥇**
+figure45445
 
 
 
 
- 
+
+
+
+
+
 
