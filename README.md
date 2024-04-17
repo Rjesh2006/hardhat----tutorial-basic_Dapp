@@ -65,7 +65,8 @@ npx hardhat init
 
 **then you will be able to see the interface like this :-🕶️**
 
-fig of hardhat:-
+
+![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/9baba51a-dfd6-4fa4-9174-1099e83792a7)
 
 
 - *Hardhat Configuration*
@@ -76,9 +77,13 @@ fig of hardhat:-
 ```
 npm install --save-dev @nomicfoundation/hardhat-toolbox
 ```
-*add this line in ur hardhat config.js file*
+*add this line in your (hardhat config.js file)*
+```
+require("@nomicfoundation/hardhat-toolbox");
+```
 - *it will look like this:*
-- fig
+![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/26a600fa-d28a-4772-8e39-69ae375b1123)
+
   
 
 ***step :3***
@@ -94,7 +99,7 @@ link6464646464646
 $ npx hardhat compile
 ```
 *then you will see like this interface:-*
-figure664646
+45555
 
 ***step 4***
 *Testing  contraact's*
@@ -106,7 +111,8 @@ figure664646
 $ npx hardhat test
 ```
 *interface you will be see*
-fig545555
+![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/3870dfca-9b22-4bf0-9ac3-e1e52d6db7cb)
+
 
 *and if u want to understand the code expalnation then click here:*
 
@@ -129,7 +135,8 @@ npx hardhat ignition deploy ./ignition/modules/Token.js --network <network-name>
 *NOTE:<ins>With our current configuration, running it without the --network parameter would cause the code to run against an embedded instance of Hardhat Network. In this scenario, the deployment actually gets lost when Hardhat finishes running, but it's still useful to test that our deployment code works:<ins>*
 
 *interface will be like this:*
-fig6464646464
+![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/7f88a96d-49f7-4b86-baa5-baf3ee3949be)
+
 
 
 ***step 4:***
@@ -150,9 +157,8 @@ npx hardhat ignition deploy ./ignition/modules/Token.js --network sepolia
 $ npx hardhat vars setup
 ```
 
-fig
+![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/169ad0ea-af34-491c-a451-699eef552ae5)
 
-**
 ```
 $ npx hardhat vars set INFURA_API_KEY <your-infura-api-key>
 $ npx hardhat vars set SEPOLIA_PRIVATE_KEY <your-sepolia-private-key>
@@ -165,7 +171,7 @@ $ npx hardhat ignition deploy ./ignition/modules/Token.js --network sepolia
 ? Confirm deploy to network sepolia (11155111)? » (y/N) <y>
 ```
 *interface will be*
-figure444646464
+![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/09306f88-1ec0-456e-8bbe-e443ff45f7e9)
 
 
 *and afer this you will get a (TokenModule#Token) then put that on the givenn link  to see ur Dapp:*
@@ -174,6 +180,7 @@ figure444646464
 **if you followed all the previous commmandss ccorrecctly then you will be able to see the final interface:liike this 🥇**
 figure45445
 
+![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/3cfcff44-ba11-4fdc-bb5d-6e1eeaa09d4d)
 
 
 
