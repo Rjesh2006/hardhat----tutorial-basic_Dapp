@@ -175,7 +175,10 @@ $ npx hardhat ignition deploy ./ignition/modules/Token.js --network sepolia
 
 
 *after this you will get a (TokenModule#Token) then put that on the givenn link  to see ur Dapp:*
-*also you can check mine by putting this token-modules:**<ins>0x69C560e71008d53A680bA31a254400e10dAea9b2<ins>**
+*also you can check mine by putting this token-modules:
+
+**<ins>0x69C560e71008d53A680bA31a254400e10dAea9b2<ins>**
+
 [blockchainexplorer](https://www.blockchain.com/explorer)
 
 **if you followed all the previous commmandss ccorrecctly then you will be able to see the final interface:liike this 🥇**
