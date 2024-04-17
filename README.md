@@ -82,7 +82,8 @@ npm install --save-dev @nomicfoundation/hardhat-toolbox
 require("@nomicfoundation/hardhat-toolbox");
 ```
 - *it will look like this:*
-![image](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/26a600fa-d28a-4772-8e39-69ae375b1123)
+![Screenshot from 2024-04-17 20-22-41](https://github.com/Rjesh2006/hardhat----dapp-s/assets/143868643/0dbbeb63-3a4a-45c6-8221-28078aec5c2c)
+
 
   
 
